@@ -21,13 +21,13 @@ I'm a sophomore at Oregon State University, passionate about technology and alwa
 
 ## 📫 How to reach me
 
-- Email: (Add your email here)
-- LinkedIn: Deepti (Replace with your LinkedIn profile link)
+- Email: dpti0904@gmail.com
+- LinkedIn: deepti.ravidath
 
 ## ⚡ Fun fact
 
-(Add a fun fact about you here)
+
 
 ---
 
-⭐️ From Deepti (Replace with your Github profile link)
+⭐️ From Deepti 
